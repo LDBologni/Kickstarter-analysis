@@ -41,7 +41,7 @@ The data displays the follows:
 ### Challenges and Difficulties Encountered
 -Organizing and filtering big data set
 -Convert Unix Timestamp, the formula is not build-in in Excel
--Countifs can be difficult to tyoe and read
+-Countifs can be difficult to write and read
 
 ## Results
 
