@@ -56,7 +56,7 @@ In order to have a successful campaign, Loise must have the capaign during the M
 -Highest successful rate is goal below 1,000
 
 ### What are some limitations of this dataset?
-The data set contains a total of 4414 datapoints, where the subcategory "Play" has 1066 datapoints. This contitutes almost 26% of the entire set. Since the purpose of the analysis is to focus on "Play" the collected data should more focused on that subcategory. In addition the collected data was taken in different countries, meaning that the outcomes might be different for each country and alter the data. The data should be collected in the same place where Louise is setting the campaign. 
+The data set contains a total of 4414 datapoints, where the subcategory "Play" has 1066 datapoints. This contitutes almost 26% of the entire set. Since the purpose of the analysis is to focus on "Play" the collected data should focused more on that subcategory. In addition the collected data was taken in different countries, meaning that the outcomes might be different for each country and alter the data. The data should be collected in the same place where Louise is setting the campaign. 
 
 ### What are some other possible tables and/or graphs that we could create?
 
