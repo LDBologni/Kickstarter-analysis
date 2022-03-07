@@ -39,9 +39,9 @@ The data displays the follows:
 
 
 ### Challenges and Difficulties Encountered
--Organizing and filtering big data set
--Convert Unix Timestamp, the formula is not build-in in Excel
--Countifs can be difficult to write and read
+- Organizing and filtering big data set
+- Convert Unix Timestamp, the formula is not build-in in Excel
+- Countifs can be difficult to write and read
 
 ## Results
 
@@ -52,8 +52,8 @@ In order to have a successful campaign, Loise must have the capaign during the M
 - There number of canceled outcomes is very low (Almost 3% from the total outcome)
 
 ### What can you conclude about the Outcomes based on Goals?
--High value goals (45,000 and over) are most likely to fail
--Highest successful rate is goal below 1,000
+- High value goals (45,000 and over) are most likely to fail
+- Highest successful rate is goal below 1,000
 
 ### What are some limitations of this dataset?
 The data set contains a total of 4414 datapoints, where the subcategory "Play" has 1066 datapoints. This contitutes almost 26% of the entire set. Since the purpose of the analysis is to focus on "Play" the collected data should focused more on that subcategory. In addition the collected data was taken in different countries, meaning that the outcomes might be different for each country and alter the data. The data should be collected in the same place where Louise is setting the campaign. 
